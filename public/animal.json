@@ -1,0 +1,9 @@
+{"animals":[
+    {"name":"Tommy", "type":"dog"},
+    {"name": "tiger", "type":"dog"},
+    {"name":"shooter", "type":"cat"},
+    {"name":"alamao", "type":"cat"},
+    {"name":"braidy", "type":"horse"},
+    {"name":"badal", "type":"horse"}
+]
+}
