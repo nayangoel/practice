@@ -118,15 +118,15 @@ else{
             cl1();
         }
             if(this.value==="dog"){
-                f1=1;
+
                 dog();
             }
             else if(this.value==="cat"){
-                f1=2;
+
                 cat();
             }
             else if(this.value==="horse"){
-                f1=3;
+                
                 horse();
             }
         }
@@ -139,7 +139,6 @@ else{
 
 f1.onclick = function(){
         if(flag1==1){
-            console.log(f1.value);
                 flag1=0;
                 flag2=1;
                 flag3=1;
